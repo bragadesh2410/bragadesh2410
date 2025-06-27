@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Python(Intern) @ Ether Services, Coimbatore.<br>👯 I’m looking to collaborate on Web Development projects using Python, React JS, Django.<br>🤝 I’m looking for help with Advanced in React JS concepts and best practices.<br>🌱 I’m currently learning React Native and enhance my skills in Full Stack Development<br>💬 Ask me about Web Development and e-commerce project<br>⚡ Fun fact to enjoy listening to melodies while coding for creative inspiration!
+I'm currently a Job Seeker<br>🔭 I’m worked at Full Stack Python(Intern) @ Ether Services, Coimbatore.<br>👯 I’m looking to collaborate on Web Development projects using Python, React JS, Django.<br>🤝 I’m looking for help with Advanced in React JS concepts and best practices.<br>🌱 I’m currently learning React Native and enhance my skills in Full Stack Development<br>💬 Ask me about Web Development and e-commerce project<br>⚡ Fun fact to enjoy listening to melodies while coding for creative inspiration!
 
 
 ## 🌐 Socials:
